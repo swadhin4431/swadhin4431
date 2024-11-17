@@ -28,6 +28,9 @@
 
 ### 📈 GitHub Stats
 ![Swadhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swadhin&show_icons=true&theme=radical)
+![Swadhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swadhin4431&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swadhin4431&layout=compact&theme=radical)
+
 
 ### 📝 Latest Blog Posts
 - [Understanding Kubernetes Networking](https://www.linkedin.com/pulse/kubernetes-networking-beginners-guide-swadhin-pattnaik-rg3tc/)
