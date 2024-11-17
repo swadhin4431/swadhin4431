@@ -2,7 +2,7 @@
 
 # Hi there, I'm Swadhin 👋
 
-🚀 **Cloud Infrastrcture Specialist** | **DevOps Enthusiast** | **Automation**
+🚀 **Cloud Infrastrcture Specialist** | **DevOps Enthusiast** | **Automation** | **Blog Contents**
 
 📍 Location: Greater Chennai Area, India  
 💼 Currently working at: [Nokia](https://www.nokia.com)
