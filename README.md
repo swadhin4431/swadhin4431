@@ -29,15 +29,15 @@
 ![Swadhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swadhin&show_icons=true&theme=radical)
 
 ### 📝 Latest Blog Posts
-- [Understanding OpenStack Networking](https://yourblog.com)
-- [Getting Started with Ansible](https://yourblog.com)
-- [Deploying Applications with Docker](https://yourblog.com)
+- [Understanding Kubernetes Networking](https://www.linkedin.com/pulse/kubernetes-networking-beginners-guide-swadhin-pattnaik-rg3tc/)
+- [HTTP 1.1 vs HTTP 2 vs HTTP 3](https://www.linkedin.com/pulse/http-10-vs-11-20-30-swadhin-pattnaik/)
+
 
 ---
 
 ### 📫 How to reach me:
-- [LinkedIn](https://linkedin.com/in/swadhin)
-- [Twitter](https://twitter.com/yourhandle)
+- [LinkedIn](https://www.linkedin.com/in/swadhin-pattnaik/)
+- [Discord](https://discord.com/swadhin)
 
 ---
 
