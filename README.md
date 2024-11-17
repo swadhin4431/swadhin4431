@@ -1,71 +1,45 @@
-# Hey, I'm Swadhin 🐉
+# Hi there, I'm Swadhin 👋
 
-![Swadhin's Banner](https://github.com/swadhin4431/swadhin4431/blob/main/%40Swadhin%20pattnaik%20Email%20swadhin.png)
+![](https://github.com/swadhin4431/swadhin4431/blob/main/%40Swadhin%20pattnaik%20Email%20swadhin.png)
 
-**🚀 Cloud Infrastructure Specialist** | **DevOps Innovator** | **Automation Aficionado**  
+🚀 **Cloud Infrastrcture Specialist** | **DevOps Enthusiast** | **Automation**
 
-📍 **Location:** Greater Chennai Area, India  
-💼 **Currently at:** [Nokia](https://www.nokia.com)
-
----
-
-### 💪 What I Bring to the Table
-
-- **Cloud & Security:**  
-  AWS | OpenStack | VMware (vCenter, vSphere)
-
-- **Software-Defined Storage (SDS):**  
-  Ceph | Lightbits | Lenovo Storage
-
-- **Software-Defined Networking (SDN):**  
-  OVN (Open Virtual Network) | OVS (Open vSwitch) | Calico | Antrea | Flannel
-
-- **Load Balancers:**  
-  HAProxy | NSX-ALB | Ceph RGW | Nginx Ingress Controller
-
-- **DevOps Arsenal:**  
-  Docker | Kubernetes | OpenShift | Istio | MetalLB | Terraform | Jenkins | Ansible | Helm | Postman
-
-- **Programming Power:**  
-  Shell Scripting (Bash) | Python
-
-- **Version Control:**  
-  Git | GitHub
-
-- **Frameworks & Libraries:**  
-  Django | Flask
-
-- **OS Mastery:**  
-  RedHat | Ubuntu | Rocky | CentOS
-
-- **Monitoring & Observability:**  
-  Grafana | Prometheus | ELK Stack | Zabbix | LibreNMS | Uptime-Kuma | CheckMK
-
-- **Database Skills:**  
-  MySQL | PostgreSQL | MariaDB | RDS
-
-- **Networking & Security:**  
-  WAF | Reverse Proxy | TCP/IP | DNS | DHCP | NAT | BGP | Switches | Firewalls
+📍 Location: Greater Chennai Area, India  
+💼 Currently working at: [Nokia](https://www.nokia.com)
 
 ---
 
-### 📊 GitHub by the Numbers
-![Swadhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swadhin4431&show_icons=true&theme=dark)
+### 💻 Technologies & Tools
+- **Cloud and Security tools:** AWS,Openstack,VMware(vCenter, vSphere,)
+- **Software Defined Storage(SDS):** Ceph storage, Lightbits, Lenevo Storage
+- **Software Defined Network(SDN):** Openstack OVN(ovn-nbctl,ovn-sbctl), OpenVswitch(OVS), Calico(Felix,IPAM,Calicoctl), Antrea, Flannel
+- **LoadBalancer:** HAproxy, NSX-ALB, ceph RGW and Nginx Ingress Controller
+- **Devops and API tools:** Git, Docker, Kubernetes,Openshift, service mesh(Istio & MetalLB),Terraform,Jenkins,Ansible,postman,Helm
+- **Programming Languages:** Shell script(bash), Python
+- **Version Control:** Git, GitHub
+- **Frameworks:** Django, Flask
+- **OS:** RedHat, Ubuntu, Rocky,CentOS
+- **Monitoring stack:** Grafana, Prometheus, ELK(kibana,elasticsearch and logstash), LibreNMS, Zabbix, Uptime-kuma, checkMK
+- **Databases:** MySQL,PostgreSQL,MariaDB, RDS
+- **Networking & Security:** WAF, Reverse Proxy,TCP/IP, DNS, DHCP, routing, Switch, NAT, Bridge,BGP
+
 
 ---
 
-### 📚 Latest Insights
-- 🚀 [Mastering Kubernetes Networking](https://www.linkedin.com/pulse/kubernetes-networking-beginners-guide-swadhin-pattnaik-rg3tc/)  
-- ⚡ [HTTP 1.1 vs HTTP 2 vs HTTP 3: Deep Dive](https://www.linkedin.com/pulse/http-10-vs-11-20-30-swadhin-pattnaik/)
+### 📈 GitHub Stats
+![Swadhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swadhin&show_icons=true&theme=radical)
+
+### 📝 Latest Blog Posts
+- [Understanding Kubernetes Networking](https://www.linkedin.com/pulse/kubernetes-networking-beginners-guide-swadhin-pattnaik-rg3tc/)
+- [HTTP 1.1 vs HTTP 2 vs HTTP 3](https://www.linkedin.com/pulse/http-10-vs-11-20-30-swadhin-pattnaik/)
+
 
 ---
 
-### 🔥 Let's Connect
-- **LinkedIn:** [Swadhin Pattnaik](https://www.linkedin.com/in/swadhin-pattnaik/)
-- **Discord:** [Swadhin#4431](https://discord.com/swadhin)
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/swadhin-pattnaik/)
+- [Discord](https://discord.com/swadhin)
 
 ---
 
-### 💬 Motto
-*"Automate the Boring, Scale the Impossible."*
-
+✨ *“Passionate about automating everything!”*
