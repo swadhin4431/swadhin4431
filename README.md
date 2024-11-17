@@ -40,7 +40,7 @@
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/swadhin-pattnaik/)
-- [Discord]([https://discord.com/swadhin](https://discord.com/channels/@me))
+- [Discord](https://discord.com/channels/@me)
 
 ---
 
