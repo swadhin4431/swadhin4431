@@ -2,8 +2,8 @@
 
 ![](https://github.com/swadhin4431/swadhin4431/blob/main/%40Swadhin%20pattnaik%20Email%20swadhin.png)
 
-🚀 **DevOps Engineer** | **Cloud Enthusiast** | **OpenStack Expert**  
-📍 Location: Your City  
+🚀 **Cloud Infrastrcture Specialist** | **DevOps Enthusiast** 
+📍 Location: Greater Chennai Area, India  
 💼 Currently working at: [Nokia](https://www.nokia.com)
 
 ---
