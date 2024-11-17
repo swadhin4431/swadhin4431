@@ -1,6 +1,6 @@
 # Hi there, I'm Swadhin 👋
 
-![DevOps Banner](https://user-images.githubusercontent.com/0000000/banner.png)
+!(https://github.com/swadhin4431/swadhin4431/blob/main/%40Swadhin%20pattnaik%20Email%20swadhin.png)
 
 🚀 **DevOps Engineer** | **Cloud Enthusiast** | **OpenStack Expert**  
 📍 Location: Your City  
