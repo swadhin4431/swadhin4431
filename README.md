@@ -27,7 +27,6 @@
 ---
 
 ### 📈 GitHub Stats
-### ![Swadhin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swadhin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swadhin4431&layout=compact&theme=radical)
 
 
